@@ -6,4 +6,4 @@ Flat theme for XFCE4. Simple and elegant windowing theme. Theme shown in screen 
 ## Installation
 Copy the Flat folder to your themes directory. Under Arch Linux this would be the directory
 
-    /usr/share/themes
+    /usr/share/themes/
